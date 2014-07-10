@@ -15,9 +15,6 @@
         $exercisePanels = $('.l-exercise'),
         $toggleBtns     = $('.toggle-btn');
 
-
-    console.log($videos);
-
     // replace svg with png fallbacks
     svgeezy.init(false, 'png');
 
