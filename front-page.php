@@ -2,24 +2,19 @@
 
 <article class="l-content-panel is-first l-content-panel-full-width homepage-video-container">
 	<div class="l-content-panel-col-left">
-		<h1 class="panel-heading video-heading">Real Stories</h1>
+		<h1 class="panel-heading video-heading">Limitless, Natural Movement</h1>
 		<div class='video-description'>
-			<p>These stories are the reason we exist. It’s witnessing the power of the human spirit to overcome, heal, and perform that keeps us motivated.</p>
+			<p>Primal 7 is a portable training device that goes against gravity, allowing users to experience what their bodies are truly capable of.</p>
 		</div>
 		<div class="l-roto-sub-nav clearfix facilities-quote-nav active-quote-nav videos-btn">
 			<ul class="l-horizontal-nav">
-				<li><a href="#show-scotty-video" class="roto-sub-pill video-pill active">Scotty</a></li>
-				<li><a href="#show-brian-video" class="roto-sub-pill video-pill">Bryan</a></li>
 			</ul>
 		</div>
-	</div>
+	</div> 
 	<section class="l-content-panel-col-right">
 		<div class="videos-holder">
 			<div class="video-box">
-				<iframe src="//player.vimeo.com/video/89680742?title=0&amp;byline=0&amp;portrait=0&amp;api=1&amp;player_id=vimeoplayer1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			</div>
-			<div class="video-box hidden">
-				<iframe src="//player.vimeo.com/video/89452365?title=0&amp;byline=0&amp;portrait=0&amp;api=1&amp;player_id=vimeoplayer" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe src="//player.vimeo.com/video/100277569?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 			</div>
 		</div>
 	</section>
