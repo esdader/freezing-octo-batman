@@ -1,0 +1,38 @@
+// video widget full width: 
+
+.video-widget-full-width {
+	margin: 0;
+	width: 100%;
+	padding-left: 32 / 1040 * 100%;
+	padding-right: 32 / 1040 * 100%;
+
+	.l-roto-sub-nav {
+		padding: 1em 0;
+	}
+	
+	.video-pill {
+		padding: 1em 1.75em;
+	}
+
+	.l-roto-sub-nav li {
+		margin-right: 1.25em;
+	}
+
+	// .video-box {
+
+	// }
+
+	.video-bg {
+		background: #000;
+		width: 960px;
+		height: 540px;
+	}
+
+	.panel-up-btn {
+		right: 29px;
+	}
+
+	.panel-down-btn {
+		right: 29px;
+	}
+}
