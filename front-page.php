@@ -93,8 +93,8 @@
 		</div>
 	</div>
 	<div class="h-quote-con">
-		<div class="h-quote">
-			<p>&#8220;Primal 7 is by far the best piece of equipment I’ve seen in a decade. It will <em>change the way we deliver functionally-focused rehabilitation</em>.&#8221;
+		<div class="h-quote big-quote">
+			<p>&#8220;Primal 7 is by far the most exciting piece of new equipment I have seen in a decade. It will <em>change the way we deliver functionally-focused rehabilitation</em>.&#8221;
 </p>
 		</div>
 		<div class="h-quoted">
