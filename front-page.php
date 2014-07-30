@@ -11,6 +11,7 @@
 		<header class="h-grid-cell-title">
 			<h1>Recovery</h1>
 			<h2>Unweighted, 3-D, Functional Movement.</h2>
+            <a href="#learn-more" class="open-module">Learn More</a>
 		</header>
 		<div class="h-grid-cell-roll">
 			<header class="h-grid-cell-heady">
@@ -24,10 +25,11 @@
 			</div>	
 		</div>
 	</div>
-	<div class="h-grid-cell cell-two right primal-roll-alt">
+	<div class="h-grid-cell cell-two right primal-roll">
 		<header class="h-grid-cell-title">
 			<h1>Performance</h1>
 			<h2>More athletic athletes.</h2>
+            <a href="#learn-more" class="open-module">Learn More</a>
 		</header>
 		<div class="h-grid-cell-roll">
 			<header class="h-grid-cell-heady">
@@ -39,10 +41,11 @@
 			</div>
 		</div>
 	</div>
-	<div class="h-grid-cell cell-three left primal-roll-alt">
+	<div class="h-grid-cell cell-three left primal-roll">
 		<header class="h-grid-cell-title">
 			<h1>Group Fitness</h1>
 			<h2>Community through movement.</h2>
+            <a href="#learn-more" class="open-module">Learn More</a>
 		</header>
 		<div class="h-grid-cell-roll">
 			<header class="h-grid-cell-heady">
@@ -58,6 +61,7 @@
 		<header class="h-grid-cell-title">
 			<h1>Wellness</h1>
 			<h2>Simple, sustainable fitness.</h2>
+            <a href="#learn-more" class="open-module">Learn More</a>
 		</header>
 		<div class="h-grid-cell-roll">
 			<header class="h-grid-cell-heady">
