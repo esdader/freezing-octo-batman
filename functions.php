@@ -70,7 +70,7 @@ function starter_theme_scripts() {
 				'jquery',
 				'plugins'
 			),
-		'0.0.6',
+		'0.0.7',
 		true
 
 	);
