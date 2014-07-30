@@ -13,10 +13,30 @@
         $videosBtn      = $('.videos-btn').find('li'),
         $videos         = $('.video-box'),
         $exercisePanels = $('.l-exercise'),
-        $toggleBtns     = $('.toggle-btn');
+        $toggleBtns     = $('.toggle-btn'),
+        $hGridCells     = $('.h-grid-cell'),
+        $hGridRolls     = $('.h-grid-cell-roll'),
+        $hGridRollsBtn  = $hGridCells.find('.open-module');
 
     // replace svg with png fallbacks
     svgeezy.init(false, 'png');
+
+    function homepageGridRollsInit() {
+
+        $hGridRolls.on('click', function() {
+            $(this).parent().removeClass('is-open');
+        });
+
+        $hGridRollsBtn.on('click', function (e) {
+            e.preventDefault();
+            $(this).parent().parent().addClass('is-open');
+
+        });
+    }
+
+    if ($hGridCells.length > 0) {
+        homepageGridRollsInit();
+    }
 
 
     // handles switching out videos
