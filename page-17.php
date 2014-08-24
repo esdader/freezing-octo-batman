@@ -56,7 +56,41 @@
 		
 	</div>
 </div>
-<article class="l-content-panel">
+<article class="l-content-panel l-content-panel-full-width video-switcher-container">
+	<div class="l-content-panel-col-left">
+		<h1 class="panel-heading video-heading">See the 7</h1>
+		<div class='video-description'>
+			<p>The movements you can achieve with Primal 7 are limited only by your imagination. However, we recommend you start by mastering the basic seven. There are three levels of progression to accommodate varying levels of physical ability.</p>
+		</div>
+		<div class="l-roto-sub-nav clearfix facilities-quote-nav active-quote-nav videos-btn">
+			<ul class="l-horizontal-nav">
+				<li><a href="#show-level-one" class="roto-sub-pill video-pill active">Level One</a></li>
+				<li><a href="#show-level-two" class="roto-sub-pill video-pill">Level Two</a></li>
+				<li><a href="#show-level-three" class="roto-sub-pill video-pill">Level Three</a></li>
+			</ul>
+		</div>
+	</div>
+	<section class="l-content-panel-col-right">
+		<div class="videos-holder">
+			<div class="video-box">
+				<iframe src="//player.vimeo.com/video/92402883?title=0&amp;byline=0&amp;portrait=0&amp;player_id=vimeoplayer1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+			<div class="video-box hidden">
+				<iframe src="//player.vimeo.com/video/92378251?title=0&amp;byline=0&amp;portrait=0&amp;player_id=vimeoplayer2" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+			<div class="video-box hidden">
+				<iframe src="//player.vimeo.com/video/92378281?title=0&amp;byline=0&amp;portrait=0&amp;player_id=vimeoplayer3" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		</div>
+	</section>
+	<div class="panel-down-btn">
+		
+	</div>
+	<div class="panel-up-btn">
+		
+	</div>
+</article>
+<article class="l-content-panel no-border">
 	<div class="exercise-row clearfix">
 		<a class="exercise-thmb exercise-thmb-link-1" href="<?php echo get_page_link(80); ?>"><img src="<?php echo bloginfo('template_directory'); ?>/img/exercises/exercise_thmb_1.svg" alt="" class="exercise-thmb-1"></a>
 		<a class="exercise-thmb exercise-thmb-link-2" href="<?php echo get_page_link(82); ?>"><img src="<?php echo bloginfo('template_directory'); ?>/img/exercises/exercise_thmb_2.svg" alt="" class="exercise-thmb-2"></a>
@@ -77,32 +111,4 @@
 		
 	</div>
 </article>
-<article class="l-content-panel video-widget-full-width">
-	<div class="video-bg">
-		<div class="l-video-holder video-box">
-			<iframe src="//player.vimeo.com/video/92402883?title=0&amp;byline=0&amp;portrait=0&amp;player_id=vimeoplayer1" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-		<div class="l-video-holder video-box hidden">
-			<iframe src="//player.vimeo.com/video/92378251?title=0&amp;byline=0&amp;portrait=0&amp;player_id=vimeoplayer2" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-		<div class="l-video-holder video-box hidden">
-			<iframe src="//player.vimeo.com/video/92378281?title=0&amp;byline=0&amp;portrait=0&amp;player_id=vimeoplayer3" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-	</div>
-	<div class="l-roto-sub-nav clearfix facilities-quote-nav active-quote-nav videos-btn">
-		<ul class="l-horizontal-nav">
-			<li><a href="#play-progressions-level-one" class="roto-sub-pill video-pill active">Progressions - Level One</a></li>
-			<li><a href="#play-progressions-level-two" class="roto-sub-pill video-pill">Progressions - Level Two</a></li>
-			<li><a href="#play-progressions-level-three" class="roto-sub-pill video-pill">Progressions - Level Three</a></li>
-		</ul>
-	</div>
-		
-	<div class="panel-down-btn">
-		
-	</div>
-	<div class="panel-up-btn">
-		
-	</div>
-</article>
-
 <?php get_footer(); ?>

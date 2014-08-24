@@ -122,6 +122,13 @@
     padding-bottom: 1.25em;
 }
 
+.video-switcher-container {
+    padding-top: 3.125em;
+    padding-bottom: 3.125em;
+    background: $color-nother-gray;
+}
+
+.video-switcher-container  .l-content-panel-col-left,
 .homepage-video-container .l-content-panel-col-left {
     width: 300px;
 }
@@ -132,6 +139,7 @@
     padding-right: 20 / 540 * 100%
 }
 
+.video-switcher-container  .l-content-panel-col-right,
 .homepage-video-container .l-content-panel-col-right {
     width: 660px;
     padding-right: 20 / 660 * 100%
@@ -211,7 +219,7 @@
 }
 
 .l-exercise-image-col {
-    width: 54%%;
+    width: 54%;
     float: right;
 }
 
@@ -313,4 +321,8 @@
     width: 440px;
     float: left;
     padding: 40px 0 0;
+}
+
+.no-border {
+    border-top: none;
 }
