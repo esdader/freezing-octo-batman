@@ -27,7 +27,7 @@ function starter_theme_scripts() {
 		'main', 
 		get_template_directory_uri() . '/css/main.css',
 		array(),
-		'1.0.6'
+		'1.0.7'
 	);
 	
 	// modernizr
@@ -70,7 +70,7 @@ function starter_theme_scripts() {
 				'jquery',
 				'plugins'
 			),
-		'0.0.7',
+		'0.0.8',
 		true
 
 	);
